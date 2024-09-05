@@ -3,3 +3,6 @@ Hello, my name is Brandon, an aspiring AI/ML engineer; I made this repo to docum
 
 ## Usage
 This ANN model can't really be used directly, but feel free to download the code and optimize it :)
+
+## Screenshot of code
+![Screenshot 2024-09-05 174452](https://github.com/user-attachments/assets/325eb14d-1b26-4458-9d28-ebd71931a4ae)
